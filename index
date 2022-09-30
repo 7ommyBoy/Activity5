@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">	
+	<link rel="stylesheet" href="sales.css">
+    <title>Sales Data</title>
+</head>
+<body onload="myFunction()">
+    <main>
+        <script src="sales.js"></script>
+        <h1>Sales Data</h1>
+        <h2><br>Sales By Quarter</br> <br>Sales By Region</br> <br>Total Sales </br> </h2>
+        <!-- <h2>Sales By Region</h2>
+        <h2>Total Sales</h2> -->
+    </main>
+</body>
+</html>
